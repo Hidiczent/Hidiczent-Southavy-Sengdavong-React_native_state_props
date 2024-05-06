@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "React_native_state",
+    "slug": "React_native_state",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "React_native_state"
+}
